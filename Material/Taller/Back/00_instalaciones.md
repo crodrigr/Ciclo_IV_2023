@@ -9,3 +9,12 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/198400591-2678b8e0-ce35-4119-9de4-6695d8bf9b97.png)
 
+
+## 2. Iniciar nodemon
+
+### 2.1 Creamos un app
+
+![image](https://user-images.githubusercontent.com/31961588/198401454-4defa7af-1891-4b81-a3ca-0624d8d11aef.png)
+
+### 2.2 Iniamos nodemon
+![image](https://user-images.githubusercontent.com/31961588/198401401-f1fca753-09d5-4cc3-a130-12685632a945.png)
