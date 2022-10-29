@@ -51,10 +51,22 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/198839426-a462b647-2b09-4c60-a285-4739a591c967.png)
 
-### 3.2.2 
+### 3.2.2 Esto se debe hacer con los otros endpoints
 
 ![image](https://user-images.githubusercontent.com/31961588/198839501-5a8b99ac-080c-46a8-ac62-46b18ae362fe.png)
 
+### 3.2.3 Probar 
 
+![image](https://user-images.githubusercontent.com/31961588/198839725-b1ffa8dc-7f2b-4cd7-802c-08035d34cb9a.png)
+
+### 3.2.4 Los otros endpoints
+
+![image](https://user-images.githubusercontent.com/31961588/198839845-10192681-805a-418e-830e-2d3573a37323.png)
+
+![image](https://user-images.githubusercontent.com/31961588/198839878-92bdd613-3b74-4bdf-9bae-26198d83118f.png)
+
+#### 3.2.5 Ajsutamos las rutas en routers/usuarios.js de los otros endpoint
+
+![image](https://user-images.githubusercontent.com/31961588/198839966-2874d272-74b8-4e79-b9d5-5ffb31d528ce.png)
 
 
