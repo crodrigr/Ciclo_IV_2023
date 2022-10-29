@@ -29,3 +29,32 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/198838872-9c3daeb7-d489-40b0-9b07-65577ed49061.png)
 
+#### 2.1 En user.js se ajusta el path, quitando el api por que ya está en el server.js
+
+![image](https://user-images.githubusercontent.com/31961588/198838990-8efe4a61-8faf-4972-9f59-1c2cc5ef9a46.png)
+
+![image](https://user-images.githubusercontent.com/31961588/198839053-75995f07-d6fd-4b1b-9971-4bc34945f177.png)
+
+#### 2.2 En Server.js add un atributo de path para darle mejor presentación
+
+![image](https://user-images.githubusercontent.com/31961588/198839137-cd131948-fcfd-4c60-b2f7-8d26ada69307.png)
+
+![image](https://user-images.githubusercontent.com/31961588/198839161-ace8ccf5-c457-4e16-9975-970328d64fd8.png)
+
+## 3. Separar de router las funcionalidad a través de controlladores. 
+
+### 3.1 Crear el directorio controllers y el usuarios.js
+
+![image](https://user-images.githubusercontent.com/31961588/198839278-9a23898c-d13f-47c5-955a-23ba6e756043.png)
+
+### 3.2.1 Controller usuarios.js
+
+![image](https://user-images.githubusercontent.com/31961588/198839426-a462b647-2b09-4c60-a285-4739a591c967.png)
+
+### 3.2.2 
+
+![image](https://user-images.githubusercontent.com/31961588/198839501-5a8b99ac-080c-46a8-ac62-46b18ae362fe.png)
+
+
+
+
