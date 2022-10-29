@@ -24,7 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/198406839-dde641cc-0ee0-4d4b-834b-67aba12b068b.png)
 
-#### 2.4 middlewares
+#### 2.4 Middlewares
 
 ![image](https://user-images.githubusercontent.com/31961588/198407178-da6c2f73-8696-4e94-bec5-194371b6aeff.png)
 
