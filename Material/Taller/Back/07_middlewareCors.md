@@ -24,3 +24,8 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/198838048-6ce36788-ec43-4e61-9ef7-25fef0caff4b.png)
 
+### 2.3 Ejecutar el app 
+
+Desde postman no se aplica el cors. Desde la aplicación del front que se ejecute desde un servidor si va funcionar. 
+
+![image](https://user-images.githubusercontent.com/31961588/198838183-f7be3d54-42f5-4456-922c-15b756bae897.png)
