@@ -16,5 +16,5 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/198401454-4defa7af-1891-4b81-a3ca-0624d8d11aef.png)
 
-### 2.2 Iniamos nodemon
+### 2.2 Inciamos nodemon
 ![image](https://user-images.githubusercontent.com/31961588/198401401-f1fca753-09d5-4cc3-a130-12685632a945.png)
