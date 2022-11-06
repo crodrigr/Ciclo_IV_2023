@@ -12,4 +12,8 @@ La conexion entre una aplicación y mongoDB se va realizar a través del paquete
 
 ## 3. Definición de la conexión con mongoDB
 
-![image](https://user-images.githubusercontent.com/31961588/200189711-367fe0ad-f595-4ce1-a41b-466232118b5c.png)
+![image](https://user-images.githubusercontent.com/31961588/200190872-131b3640-8e9a-4aeb-a0bf-634d842d1eec.png)
+
+
+## 4. Configuración de server.js para iniciar la conexión a la base de datos. 
+
