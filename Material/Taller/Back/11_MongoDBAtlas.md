@@ -42,6 +42,19 @@
 ### 2.11
 ![image](https://user-images.githubusercontent.com/31961588/200181913-5ba8f788-6782-4f09-b5a5-5789f7f1068f.png)
 
+### 2.12 Configurar .env con el user y password de mongodb
+
+![image](https://user-images.githubusercontent.com/31961588/200182464-9b2960e4-f256-4148-b64b-0c344efb6e4b.png)
+
+### 2.13 Crear el roll
+
+![image](https://user-images.githubusercontent.com/31961588/200182540-2d2e4fda-351e-489e-be2a-5912ea497989.png)
+
+![image](https://user-images.githubusercontent.com/31961588/200182686-b0d8715b-7467-4c8d-8f9d-1ddf6ac2fc6d.png)
+
+
+
+
 
 
 
