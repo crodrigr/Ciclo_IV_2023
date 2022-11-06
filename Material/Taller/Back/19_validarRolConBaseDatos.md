@@ -16,3 +16,19 @@
 ### 4.1 
 
 ![image](https://user-images.githubusercontent.com/31961588/200201264-00445c10-3046-486b-b7ee-3ba84d0f0051.png)
+
+### 4.2
+
+![image](https://user-images.githubusercontent.com/31961588/200201636-9c55ad7e-e181-47f0-85d2-c74b2375c1c5.png)
+
+### 5. Crear el modelo role.js en models
+
+![image](https://user-images.githubusercontent.com/31961588/200201690-118b6fda-68e1-4557-961e-8720bf1f078e.png)
+
+### 5.1 Crear model role.js
+
+![image](https://user-images.githubusercontent.com/31961588/200201727-2f2cb308-9333-40dd-96a1-ce3cd91df402.png)
+
+### 5.2 Implementar validación de rol en Routers-usuarios.js
+
+![image](https://user-images.githubusercontent.com/31961588/200202641-5febb6f9-4409-46f5-a5ce-96d8b19a0cdc.png)
