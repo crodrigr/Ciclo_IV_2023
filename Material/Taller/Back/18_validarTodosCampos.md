@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200197635-072d3fa6-5b5f-48b4-85f5-ef229a6fb850.png)
 
-## 2. Middleware - valicdar-campos.js
+## 2. Middleware - validar-campos.js
 
 ![image](https://user-images.githubusercontent.com/31961588/200197691-6b20a21d-5f17-4a09-a76c-996b69761f97.png)
 
