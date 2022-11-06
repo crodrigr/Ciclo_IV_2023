@@ -1,4 +1,4 @@
-# Creando un usuario en la coleccipon. 
+# Creando un usuario en la colección de usuarios. 
 
 ## 1. En el controlador de usuario importar el modelo usuario
 
