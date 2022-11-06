@@ -1,5 +1,12 @@
 # Conifiguración de MongoDB Atlas
 
+Se debe descargar un visor de base datos no sql (mongodb) como mongodb-compas
+
+[Mongodb-compas](https://www.mongodb.com/try/download/compass)
+
+
+Este es el link para acceder a mongodb-atlas donde se va crear nuestra base de datos. 
+
 [Click MongoDB Atlas](https://www.mongodb.com/atlas/database)
 
 ## 1. MongoDb-Atlas
