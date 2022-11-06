@@ -24,3 +24,7 @@
 #### 4.2 
 
 ![image](https://user-images.githubusercontent.com/31961588/200198190-d646af69-f5ec-4110-b795-0e3ba697a521.png)
+
+#### 4.2.1
+
+![image](https://user-images.githubusercontent.com/31961588/200198453-68958d46-05bc-4887-a63d-0bc5adf4730b.png)
