@@ -11,13 +11,15 @@
 
 ## 3. Routers - usuarios.js se hace la validaciónd de los otros campos
 
-![image](https://user-images.githubusercontent.com/31961588/200197981-4f7e5c08-7c8a-49ed-8219-67b21784cfd5.png)
+![image](https://user-images.githubusercontent.com/31961588/200198327-23adb3fe-0ab2-4cee-a27e-cdc9505dede2.png)
+
 
 ## 4. Implementar el middleware de validación
 
 #### 4.1 Importar el middleware validar campos en router->usuarios.js
 
-![image](https://user-images.githubusercontent.com/31961588/200198133-d6f8020e-b389-4692-8d5f-77b3228580cc.png)
+![image](https://user-images.githubusercontent.com/31961588/200198281-868a2bd3-4102-4648-9699-fdaac242800d.png)
+
 
 #### 4.2 
 
