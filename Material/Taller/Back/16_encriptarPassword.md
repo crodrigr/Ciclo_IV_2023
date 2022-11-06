@@ -12,3 +12,7 @@
 ## 2.1 Encriptar el password
 
 ![image](https://user-images.githubusercontent.com/31961588/200195472-689c1951-8da5-4ec6-9440-b19849d0d8ae.png)
+
+## 2.2 Test
+
+![image](https://user-images.githubusercontent.com/31961588/200195544-973b8f17-4466-4cae-b20d-b3f34b765756.png)
