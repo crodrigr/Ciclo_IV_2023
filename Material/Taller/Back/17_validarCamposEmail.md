@@ -17,3 +17,11 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200196704-a295eee3-2647-40d1-883c-a666c0609aab.png)
 
+
+## 4. Validar si correo ya existe 
+
+![image](https://user-images.githubusercontent.com/31961588/200197150-768c368a-48b2-453c-b3d5-4e088a22d231.png)
+
+## 4.1 Test
+
+![image](https://user-images.githubusercontent.com/31961588/200197170-f85e4063-b081-490b-bc4e-312691471e90.png)
