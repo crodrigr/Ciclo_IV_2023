@@ -48,10 +48,14 @@
 
 ### 2.13 Crear el roll
 
+#### 2.13.1
 ![image](https://user-images.githubusercontent.com/31961588/200182540-2d2e4fda-351e-489e-be2a-5912ea497989.png)
 
+#### 2.13.2
 ![image](https://user-images.githubusercontent.com/31961588/200182759-70ca1eb9-f1bf-4e77-8b23-f2369c7443cb.png)
 
+#### 2.13.3
+![image](https://user-images.githubusercontent.com/31961588/200182800-3e4490d8-c1d7-464b-b721-831c577c44bb.png)
 
 
 
