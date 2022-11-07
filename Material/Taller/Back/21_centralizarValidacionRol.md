@@ -12,3 +12,11 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200204458-ef9dd5f7-bf93-4ae5-961d-7370c4f05fdf.png)
 
+## 4. No retorn password y _v
+
+![image](https://user-images.githubusercontent.com/31961588/200206424-79fea750-c1a9-4e02-95a6-00fc06be2f01.png)
+
+### 4.1 En models usuario.js
+
+![image](https://user-images.githubusercontent.com/31961588/200206632-0803ab85-d894-439e-8ab9-6311001b5090.png)
+
