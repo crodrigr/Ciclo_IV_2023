@@ -32,3 +32,8 @@
 ### 5.2 Implementar validación de rol en Routers-usuarios.js
 
 ![image](https://user-images.githubusercontent.com/31961588/200202641-5febb6f9-4409-46f5-a5ce-96d8b19a0cdc.png)
+
+### 5.3 Test
+
+![image](https://user-images.githubusercontent.com/31961588/200202693-af4dd40a-7cec-4174-afac-3fb817fc1fc8.png)
+
