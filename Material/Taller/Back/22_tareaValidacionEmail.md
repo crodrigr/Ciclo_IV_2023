@@ -13,3 +13,7 @@
 ## 3 Controllers- usuarios.js en usuariosPost se quita la validación de correo si existe. 
 
 ![image](https://user-images.githubusercontent.com/31961588/200207155-a2dea8c5-c2ff-48c8-a1c3-b0a06c966551.png)
+
+### 4 
+
+![image](https://user-images.githubusercontent.com/31961588/200208624-6544976e-1689-4e3e-b52a-353f0d2d24b2.png)
