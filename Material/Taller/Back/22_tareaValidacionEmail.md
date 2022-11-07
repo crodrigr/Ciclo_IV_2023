@@ -8,6 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/200207042-28c94b2b-8468-4602-9e8d-e04111b778e5.png)
 
-## 3 Controllers- usarios.js en usuariosPost se quita la validación de correo si existe. 
+## 3 Controllers- usuarios.js en usuariosPost se quita la validación de correo si existe. 
 
 ![image](https://user-images.githubusercontent.com/31961588/200207155-a2dea8c5-c2ff-48c8-a1c3-b0a06c966551.png)
