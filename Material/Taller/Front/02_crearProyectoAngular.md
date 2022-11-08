@@ -70,7 +70,7 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/164354671-1c1dbb8e-823d-4d9a-a22e-486b738b7293.png)
 
-**Todo proyecto de angular va tener un componete principal que es el app.component. Angular construye aplicaciones a traves de componentes y un componente por lo generar cuenta de los siguientes tipo de  archivos:  .html, .ts, .css, y spect.ts como se observa.**
+**Todo proyecto de angular va tener un componete principal que es el app.component. Angular construye aplicaciones a traves de componentes y un componente por lo general cuenta de los siguientes tipo de  archivos:  .html, .ts, .css, y spect.ts como se observa.**
   
   ![image](https://user-images.githubusercontent.com/31961588/164355024-4b2688aa-feb6-4947-8f79-4657d7fcb2b9.png)
   
