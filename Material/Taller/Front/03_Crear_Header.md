@@ -2,7 +2,7 @@
 
 ## 1. Instalar boostrap
 
-**Boostrap tiene varias formas de instalación. Se va instalar CDN
+**Boostrap tiene varias formas de instalación. Se va instalar CDN**
 
 ![image](https://user-images.githubusercontent.com/31961588/164356943-653428cf-bfc9-4c42-831b-12dd04d31bad.png)
 
