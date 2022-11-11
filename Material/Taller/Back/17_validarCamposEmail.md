@@ -9,6 +9,10 @@
 
 ## 3. En controllers->usuarios.js
 
+Se debe importar el paquete express-validator de la siguente forma:
+
+**const { validationResult } = require('express-validator');**
+
 ![image](https://user-images.githubusercontent.com/31961588/200196717-fb4e78a7-59ce-4d3c-82a8-b155af28012a.png)
 
 
