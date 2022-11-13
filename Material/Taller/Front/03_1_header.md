@@ -41,4 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/201531074-5932a034-8737-4662-89b4-5146350dee25.png)
 
+#### 4.1 app.component.html colocamos un container para el router
+
+![image](https://user-images.githubusercontent.com/31961588/201531351-9ee04a0c-0622-47d8-8a35-4233858c6d8a.png)
 
