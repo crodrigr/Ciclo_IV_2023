@@ -6,4 +6,9 @@
 
 ### 2. Método que hace el update de un cliente en clientService
 
-![image](https://user-images.githubusercontent.com/31961588/201550994-b8effbcd-442f-4b5a-82f6-bf738c3a1fd0.png)
+![image](https://user-images.githubusercontent.com/31961588/201551064-0527ddea-c425-46c6-b18b-2ae51484cc3d.png)
+
+### 3. Método update en form.component.ts
+
+![image](https://user-images.githubusercontent.com/31961588/201551433-bd823d8c-9cf8-4fec-9602-4d0ba4241791.png)
+
