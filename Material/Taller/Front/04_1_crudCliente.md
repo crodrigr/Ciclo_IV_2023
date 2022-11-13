@@ -29,5 +29,8 @@ Este componente se usa en el cliente.service.ts
 
 ![image](https://user-images.githubusercontent.com/31961588/201538991-23ef9e51-d890-470b-96fe-383a69d458b3.png)
 
+#### 5.2 Crear el método getClients que obtiene el listado de clientes desde el back
+
+![image](https://user-images.githubusercontent.com/31961588/201540520-1441ae71-7676-43f4-997a-8f73836deefc.png)
 
 
