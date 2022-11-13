@@ -25,3 +25,10 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/201528615-1ee8b670-6050-4ae6-9621-2697891aa52c.png)
 
+### 7. http:localhost:4200
+
+![image](https://user-images.githubusercontent.com/31961588/201528704-eba31d37-5e17-4c86-9694-441844e7f1eb.png)
+
+#### 7.1 
+
+![image](https://user-images.githubusercontent.com/31961588/201528731-88abae8a-e157-4407-89fc-8318e6981121.png)
