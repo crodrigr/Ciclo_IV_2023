@@ -1,4 +1,9 @@
-# Crear cliente 
+# Crear cliente
+
+Para trabajar con fomularios a que importar FormsModule, ReactiveFormModule en el app.modules.ts
+
+![image](https://user-images.githubusercontent.com/31961588/201549177-8fd2bed5-b1df-44d9-89ad-8d84a59d5a11.png)
+
 
 ### 1. Crear componente form 
 
