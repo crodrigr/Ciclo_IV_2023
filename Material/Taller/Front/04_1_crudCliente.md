@@ -63,4 +63,7 @@ Para listar los clients en client.component se debe hacer el llamado del getClie
 
 ![image](https://user-images.githubusercontent.com/31961588/201543425-5c89fa39-cff8-4b2f-b7b3-a886068f3282.png)
 
+### 7 Ejemplo 
+
+![image](https://user-images.githubusercontent.com/31961588/201546352-c7171671-03f1-4e87-9124-f0bfc3efabc6.png)
 
