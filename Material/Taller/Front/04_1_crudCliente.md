@@ -19,7 +19,12 @@ Se crea dentro del componente Client un archivio client.ts y en el se define la 
 
 ![image](https://user-images.githubusercontent.com/31961588/201538691-3c7a97c3-bf02-41c7-8871-49e9bb5a43e1.png)
 
-### 5. HttpClient el componente de @angular/common/http que permite hacer peticiones http: get, post, put, pacth, delete al backend
+### 5. HttpClient el componente de @angular/common/http que permite hacer peticiones http: get, post, put, pacth, delete al backend}
+
+Para poder usar el HttpClient en cada se implementar el HttpClientModule en app.module.ts
+
+![image](https://user-images.githubusercontent.com/31961588/201544374-7908f717-2c94-4abb-af4f-edcf4e826ea4.png)
+
 
 Este componente se usa en el cliente.service.ts
 
