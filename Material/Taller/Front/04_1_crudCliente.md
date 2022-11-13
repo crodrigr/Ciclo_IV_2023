@@ -11,6 +11,11 @@ Se crea dentro del componente Client un archivio client.ts y en el se define la 
 
 ![image](https://user-images.githubusercontent.com/31961588/201538290-3f8afca3-8b4c-452a-a10d-30c8b6f52659.png)
 
+Crear la interfaz clienResponse
+
+![image](https://user-images.githubusercontent.com/31961588/201545971-9dc1000e-bc27-4115-b06d-459a143e3f95.png)
+
+
 ### 3. Crear el service Client  que proporciona la conexión con el back
 
 ![image](https://user-images.githubusercontent.com/31961588/201538618-6639bb67-1a1b-4790-81b1-8eba3bd48228.png)
@@ -36,7 +41,8 @@ Este componente se usa en el cliente.service.ts
 
 #### 5.2 Crear el método getClients que obtiene el listado de clientes desde el back
 
-![image](https://user-images.githubusercontent.com/31961588/201540520-1441ae71-7676-43f4-997a-8f73836deefc.png)
+![image](https://user-images.githubusercontent.com/31961588/201546148-099b1458-13a7-4758-9774-4637c2f13f53.png)
+
 
 ### 6. Listar los clientes en client.componente.html 
 
@@ -44,7 +50,8 @@ Para listar los clients en client.component se debe hacer el llamado del getClie
 
 #### 6.1 client.component.ts
 
-![image](https://user-images.githubusercontent.com/31961588/201542894-8a1f4b8c-b41e-4f53-9ca2-a2c83daf77ff.png)
+
+![image](https://user-images.githubusercontent.com/31961588/201546309-b637f868-094c-48da-b77c-d598ec81caf6.png)
 
 
 #### 6.2 client.componet.html
