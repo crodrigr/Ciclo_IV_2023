@@ -44,10 +44,11 @@ Para listar los clients en client.component se debe hacer el llamado del getClie
 
 #### 6.2 client.componet.html
 
-![image](https://user-images.githubusercontent.com/31961588/201543390-dcc50260-4ce5-4a91-9cfb-37b31fceb1df.png)
+![image](https://user-images.githubusercontent.com/31961588/201543449-25cf1bce-7670-49b0-bb9f-e184fdbd3f7f.png)
 
 
 #### 6.2.1 Table client
 
-![image](https://user-images.githubusercontent.com/31961588/201543055-20105aa8-315b-4a6e-95c4-c993ae81141c.png)
+![image](https://user-images.githubusercontent.com/31961588/201543425-5c89fa39-cff8-4b2f-b7b3-a886068f3282.png)
+
 
