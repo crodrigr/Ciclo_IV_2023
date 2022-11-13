@@ -28,3 +28,21 @@ Para trabajar con fomularios a que importar FormsModule, ReactiveFormModule en e
 ### 4. En form.component.ts se define la función create que llama al clienteService.component.ts crea que envía la petición al back
 
 ![image](https://user-images.githubusercontent.com/31961588/201548571-472decd5-16c9-47f6-b5ce-f17c643fa08d.png)
+
+### 5. Crear botón para ir a formulario de crear cliente y crear el path en en routing
+
+**cliente.component.html**
+
+![image](https://user-images.githubusercontent.com/31961588/201549603-a5fea628-b9fb-45cf-95dd-ee8a01ef1a61.png)
+
+**app-routing.component.ts**
+
+![image](https://user-images.githubusercontent.com/31961588/201549669-90f3dde8-25aa-42d2-9a89-b46f83f346c0.png)
+
+**Ejemplo**
+
+![image](https://user-images.githubusercontent.com/31961588/201549711-2f073e2d-25a0-48d7-9214-dd54aac20743.png)
+
+![image](https://user-images.githubusercontent.com/31961588/201549720-70c98c38-e816-4b70-8aca-0f783082a291.png)
+
+
