@@ -19,3 +19,7 @@
 ### 3. En clientService.component.ts se define el servicio create cliente que llama al back
 
 ![image](https://user-images.githubusercontent.com/31961588/201548181-2ebdd233-ba46-4465-8500-87d916d03346.png)
+
+### 4. En form.component.ts se defini la función create que llama al clienteService.component.ts crea que envía la petición al back
+
+![image](https://user-images.githubusercontent.com/31961588/201548571-472decd5-16c9-47f6-b5ce-f17c643fa08d.png)
