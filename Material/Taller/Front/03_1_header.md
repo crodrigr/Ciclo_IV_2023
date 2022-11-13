@@ -11,6 +11,11 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/201530702-3f569606-a12f-4d5c-bd8b-f4c28b91c56c.png)
 
+#### 1.3 app.module.ts se registra todos los componentes que tiene nuestra aplicación
+
+![image](https://user-images.githubusercontent.com/31961588/201531215-8bcf55dd-eed3-452a-9bf5-f8de97a4527b.png)
+
+
 ### 2. Implementar el componente header en el app.component.html
 
 ![image](https://user-images.githubusercontent.com/31961588/201530881-69e788ff-7a66-411e-8caa-7776392df187.png)
