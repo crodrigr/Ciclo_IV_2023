@@ -33,4 +33,12 @@ Este componente se usa en el cliente.service.ts
 
 ![image](https://user-images.githubusercontent.com/31961588/201540520-1441ae71-7676-43f4-997a-8f73836deefc.png)
 
+### 6. Listar los clientes en client.componente.html 
+
+Para listar los clients en client.component se debe hacer el llamado del getClients en el servicio que se creo en el punto anterior y listarlos en la vista del componente cliente que sería el client.component.html. Lo primero es llamar al getClientes en client.componet.ts
+
+![image](https://user-images.githubusercontent.com/31961588/201542894-8a1f4b8c-b41e-4f53-9ca2-a2c83daf77ff.png)
+
+
+
 
