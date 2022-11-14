@@ -32,3 +32,13 @@
 #### 6.2 Ejemplo 
 
 ![image](https://user-images.githubusercontent.com/31961588/201556302-fb33c917-ca2b-4da9-a6bd-0891d8a448a2.png)
+
+#### 7. Ajustar boton de formulario para cuando sea crear y actulizar
+
+![image](https://user-images.githubusercontent.com/31961588/201559014-b2371dcc-95b6-4a3a-a5d7-22f3e3408af0.png)
+
+####  7.1
+
+![image](https://user-images.githubusercontent.com/31961588/201559133-91f1fd50-a6ca-47a7-a5b7-f0007fc63f4b.png)
+
+
