@@ -28,3 +28,7 @@
 #### 6.1 Llamado del getClientById desde el ngOnInit
 
 ![image](https://user-images.githubusercontent.com/31961588/201552423-ce833367-2a9f-4972-a82c-0199550a8651.png)
+
+#### 6.2 Ejemplo 
+
+![image](https://user-images.githubusercontent.com/31961588/201556302-fb33c917-ca2b-4da9-a6bd-0891d8a448a2.png)
