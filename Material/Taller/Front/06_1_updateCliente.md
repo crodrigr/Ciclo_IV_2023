@@ -12,3 +12,19 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/201551433-bd823d8c-9cf8-4fec-9602-4d0ba4241791.png)
 
+### 4. Agregar la ruta de actulizar en app-routing.components.ts
+
+![image](https://user-images.githubusercontent.com/31961588/201551531-87473fe8-e5bb-4646-8651-6988e535ad73.png)
+
+### 5. Crear botón de actualizar 
+
+![image](https://user-images.githubusercontent.com/31961588/201551753-faa7c400-881f-4905-b000-4b5ca85dafac.png)
+
+### 6. Metodo getClientById en el form.component.ts
+
+![image](https://user-images.githubusercontent.com/31961588/201556233-1e25e4d0-7810-425e-abba-da45bb2fd8dd.png)
+
+
+#### 6.1 Llamado del getClientById desde el ngOnInit
+
+![image](https://user-images.githubusercontent.com/31961588/201552423-ce833367-2a9f-4972-a82c-0199550a8651.png)
