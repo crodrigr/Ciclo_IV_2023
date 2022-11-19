@@ -2,8 +2,6 @@
 
 ### 1 Crear el componente header con ng generate component 
 
-![image](https://user-images.githubusercontent.com/31961588/201530452-73380f97-0e0f-4d70-af99-8f8988129561.png)
-
 #### 1.1 Archivos que se crean con un componente
 ![image](https://user-images.githubusercontent.com/31961588/201530614-b762a173-6ac8-440f-bfc0-ea0add0fb83e.png)
 
