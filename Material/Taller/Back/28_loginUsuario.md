@@ -11,7 +11,7 @@
 
 ## 3. Crear un función que genere el jwt, se crea un helper: generar-jwt.js
 
-![image](https://user-images.githubusercontent.com/31961588/204110548-5da20c31-1685-44f7-a23b-a503473c5c09.png)
+![image](https://user-images.githubusercontent.com/31961588/204112273-61eba4fa-83c7-47d1-a7cf-93353326abad.png)
 
 ## 4. En el controllador de auth login
 
