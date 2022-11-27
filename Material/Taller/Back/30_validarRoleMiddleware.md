@@ -11,3 +11,7 @@
 ## 3. Test put con un usuario que no tiene rol de administrdor
 
 ![image](https://user-images.githubusercontent.com/31961588/204114153-f47dede3-2c3d-48ae-ba2c-2fabd041316a.png)
+
+## 5. Multiples roles
+
+![image](https://user-images.githubusercontent.com/31961588/204114432-ea60ea05-f717-4028-a3d5-54715a2d0f4f.png)
