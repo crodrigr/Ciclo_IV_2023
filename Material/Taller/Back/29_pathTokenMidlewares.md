@@ -12,3 +12,5 @@
 ![image](https://user-images.githubusercontent.com/31961588/204113399-5fb597c2-7f65-4550-93bc-b96d5d6ba5be.png)
 
 ## 4. Prueba con token
+![image](https://user-images.githubusercontent.com/31961588/204113612-b155b0f3-019f-4458-84e4-34e9ab3a94e4.png)
+
