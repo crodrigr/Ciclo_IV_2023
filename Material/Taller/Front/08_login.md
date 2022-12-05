@@ -8,9 +8,79 @@
 
 ![image](https://user-images.githubusercontent.com/31961588/205515645-32fed1e1-9e65-4d68-9844-14da57e3be4e.png)
 
-## 2. En auth.services.ts importar las librerias necesarias
+## 3. En auth.services.ts importar las librerias necesarias
 
-![image](https://user-images.githubusercontent.com/31961588/205515785-82e1320a-83c8-4e12-8bf1-b667e3e53d84.png)
+```TypeScripts
+import { Injectable } from '@angular/core';
+import { Observable } from 'rxjs';
+import { HttpClient,HttpHeaders } from '@angular/common/http';
+import { User } from './user';
+import { environment } from 'src/environments/environment';
+
+
+@Injectable({
+  providedIn: 'root'
+})
+export class AuthService {
+
+  private _token: string='';
+  private _usuario?: User;
+  private urlApi: string ='';
+  constructor(private http:HttpClient) {
+      this.urlApi=environment.apiUrl+'/api';
+    
+   }
+
+   public get usuario(): User {
+      if (this._usuario != null) {
+        return this._usuario;
+      } else if (this._usuario == null && sessionStorage.getItem('user') != null) {
+        this._usuario = JSON.parse(sessionStorage.getItem('user') || '') as User;
+        return this._usuario;
+      }
+      return new User();
+    }
+
+   public get token(): string {
+      if (this._token != null) {
+        return this._token;
+      } else if (this._token == null && sessionStorage.getItem('token') != null) {
+        this._token = sessionStorage.getItem('token') || '';
+        return this._token;
+      }
+      return this._token;
+   }
+
+   isAuthenticated(): boolean{
+       if(this._token.length>0 && this._token!=''){
+          return true;
+       }else{
+         return false;
+       }
+
+   }
+
+  login(user:User): Observable<any>{
+     const urlEnpoint=this.urlApi+'/auth/login';
+     return this.http.post<any>(urlEnpoint,user);
+  }
+
+  guardarUser(user: User): void {
+   this._usuario = new User();
+   this._usuario=user;  
+   sessionStorage.setItem('user', JSON.stringify(this._usuario));
+ }
+
+  guardarToken(accesToken:string): void{
+    this._token=accesToken;
+    sessionStorage.setItem('token',accesToken);
+  }
+
+
+}
+
+```
+
 
 ## 3. Crear el servicio login
 
