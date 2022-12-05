@@ -222,11 +222,11 @@ export class UserInterceptor implements HttpInterceptor {
 
 ```
 
-## 9. Ajuste de app-roting
+## 9. Ajuste de app-routing.module.ts
 
 ![image](https://user-images.githubusercontent.com/31961588/205529368-0785410a-3222-4624-ae94-4f76b7c1600f.png)
 
-## 10. Ajuste de app.module
+## 10. Ajuste de app.module.ts
 
 ![image](https://user-images.githubusercontent.com/31961588/205529464-b18b310e-d808-405f-9245-b927ab72f516.png)
 
